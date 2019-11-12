@@ -29,5 +29,6 @@
 **Thoughts:**
 
 * I must be careful with OS upgrades. The virtualenv failed after upgrade and wasted my time. Maybe it could be for cython compilation.
+* I was able to add the choices as `Enum` and coninue using cython in the fields. Last time I wasn't
 
 **Link to work:** [gideon project](https://github.com/pity7736/gideon)
