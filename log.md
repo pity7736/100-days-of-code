@@ -22,7 +22,7 @@
 **Today's Progress:**
 
 * Updated requirements.
-* Added choices as Enum to field.
+* Added choices as `Enum` to field.
 * Added `to_python` method to `Field` and use it in `Model.__init__`.
 * Added choices validation in setter.
 
