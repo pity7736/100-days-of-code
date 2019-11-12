@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+S
+
+* [Day 0](### Day 0: November 9, 2019)
+* [Day 1](### Day 1: November 10, 2019)
+* [Day 2](### Day2: November 11, 2019)
 
 ### Day 0: November 9, 2019
 
