@@ -1,8 +1,8 @@
 # 100 Days Of Code - Log
 
 * [Day 0](#day0)
-* [Day 1](### Day 1: November 10, 2019)
-* [Day 2](### Day2: November 11, 2019)
+* [Day 1](#day1)
+* [Day 2](#day2)
 
 <a id="day0"></a>
 ### Day 0: November 9, 2019
@@ -14,6 +14,7 @@
 **Link to work:** [gideon project](https://github.com/pity7736/gideon)
 
 
+<a id="day1"></a>
 ### Day 1: November 10, 2019
 
 **Today's Progress:** I learning about python descriptors.
@@ -21,6 +22,7 @@
 **Thoughts:** Maybe I could use python descriptors to run field validators.
 
 
+<a id="day2"></a>
 ### Day2: November 11, 2019
 
 **Today's Progress:**
