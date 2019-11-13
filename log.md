@@ -3,6 +3,7 @@
 * [Day 0](#day0)
 * [Day 1](#day1)
 * [Day 2](#day2)
+* [Day 3](#day3)
 
 <a id="day0"></a>
 ### Day 0: November 9, 2019
@@ -23,7 +24,7 @@
 
 
 <a id="day2"></a>
-### Day2: November 11, 2019
+### Day 2: November 11, 2019
 
 **Today's Progress:**
 
@@ -31,6 +32,23 @@
 * Added choices as `Enum` to field.
 * Added `to_python` method to `Field` and use it in `Model.__init__`.
 * Added choices validation in setter.
+
+**Thoughts:**
+
+* I must be careful with OS upgrades. The virtualenv failed after upgrade and wasted my time. Maybe it could be for cython compilation.
+* I was able to add the choices as `Enum` and continue using cython in the fields. Last time I wasn't
+
+**Link to work:** [gideon project](https://github.com/pity7736/gideon)
+
+
+<a id="day3"></a>
+### Day 3: November 12, 2019
+
+**Today's Progress:**
+
+* Created `QuerySet` class
+* Added `all`, `get` and `filter` methods to `QuerySet` and `Model` calls these methods.
+* `filter` method return another `QuerySet` instance with the new filter criteria.
 
 **Thoughts:**
 
