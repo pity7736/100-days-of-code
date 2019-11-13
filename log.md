@@ -52,7 +52,7 @@
 
 **Thoughts:**
 
-* I must be careful with OS upgrades. The virtualenv failed after upgrade and wasted my time. Maybe it could be for cython compilation.
-* I was able to add the choices as `Enum` and continue using cython in the fields. Last time I wasn't
+* It was very easy to add `QuerySet` class and replace the methods thanks to the tests.
+* Radon (lib to calculate a cyclomatic complexity number) and pytest-coverage don't work with cython files. I need to find a way to solve this.
 
-**Link to work:** [gideon project](https://github.com/pity7736/gideon)
+**Link to work:** [queryset PR](https://github.com/pity7736/gideon/pull/1/files)
