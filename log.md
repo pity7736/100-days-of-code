@@ -4,6 +4,7 @@
 * [Day 1](#day1)
 * [Day 2](#day2)
 * [Day 3](#day3)
+* [Day 4](#day4)
 
 <a id="day0"></a>
 ### Day 0: November 9, 2019
@@ -56,3 +57,17 @@
 * Radon (lib to calculate a cyclomatic complexity number) and pytest-coverage don't work with cython files. I need to find a way to solve this.
 
 **Link to work:** [queryset PR](https://github.com/pity7736/gideon/pull/1/files)
+
+<a id="day4"></a>
+### Day 4: November 13, 2019
+
+**Today's Progress:**
+
+* Added `only` method to `QuerySet`.
+* Refactorized `_run_query` method.
+
+**Thoughts:**
+
+* I need to review `get` and `all` methods. Maybe they shouldn't be coroutines but functions.
+
+**Link to work:** [PR](https://github.com/pity7736/gideon/pull/2/files)
