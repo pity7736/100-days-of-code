@@ -83,5 +83,6 @@
 **Thoughts:**
 
 * The `__new__` method is not available in cython. I could not implement `ConnectionPool` as singleton.
+* I'm going to create a  database client that uses the `ConnectionPool`.
 
 **Link to work:** [gideon](https://github.com/pity7736/gideon/)
