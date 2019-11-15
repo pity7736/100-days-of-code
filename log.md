@@ -5,6 +5,7 @@
 * [Day 2](#day2)
 * [Day 3](#day3)
 * [Day 4](#day4)
+* [Day 5](#day5)
 
 <a id="day0"></a>
 ### Day 0: November 9, 2019
@@ -71,3 +72,16 @@
 * I need to review `get` and `all` methods. Maybe they shouldn't be coroutines but functions.
 
 **Link to work:** [PR](https://github.com/pity7736/gideon/pull/2/files)
+
+<a id="day5"></a>
+### Day 5: November 14, 2019
+
+**Today's Progress:**
+
+* Implemented dummy connection pool
+
+**Thoughts:**
+
+* The `__new__` method is not available in cython. I could not implement `ConnectionPool` as singleton.
+
+**Link to work:** [gideon](https://github.com/pity7736/gideon/)
