@@ -6,6 +6,7 @@
 * [Day 3](#day3)
 * [Day 4](#day4)
 * [Day 5](#day5)
+* [Day 6](#day6)
 
 <a id="day0"></a>
 ### Day 0: November 9, 2019
@@ -86,3 +87,15 @@
 * I'm going to create a  database client that uses the `ConnectionPool`.
 
 **Link to work:** [gideon](https://github.com/pity7736/gideon/)
+
+<a id="day6"></a>
+### Day 6: November 16, 2019
+
+**Today's Progress:**
+
+* I was learning about concurrency.
+
+**Thoughts:**
+
+* The threading is more complicated than I thought.
+* It's very common bugs in threading code and it's very difficult find them.
