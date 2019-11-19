@@ -7,6 +7,7 @@
 * [Day 4](#day4)
 * [Day 5](#day5)
 * [Day 6](#day6)
+* [Day 7](#day7)
 
 <a id="day0"></a>
 ### Day 0: November 9, 2019
@@ -99,3 +100,19 @@
 
 * The threading is more complicated than I thought.
 * It's very common bugs in threading code and it's very difficult find them.
+
+
+<a id="day7"></a>
+### Day 7: November 18, 2019
+
+**Today's Progress:**
+
+* Created `DBClient`.
+* Renamed environment variables for connection.
+* QuerySet now uses `DBClient`.
+
+**Thoughts:**
+
+* I think that I wrong in import cython files. I need to check this instaling gideon in other project (like [Odin](https://github.com/pity7736/odin)).
+
+**Link to work:** [gideon db_client commit](https://github.com/pity7736/gideon/commit/6fee90d4bebc96bc4221517ef68fa085c0bc16bc)
