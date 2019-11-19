@@ -113,6 +113,6 @@
 
 **Thoughts:**
 
-* I think that I wrong importing cython files. I need to check this instaling gideon in other project (like [Odin](https://github.com/pity7736/odin)).
+* I think that I wrong importing cython files. I need to check this installing gideon in other project (like [Odin](https://github.com/pity7736/odin)).
 
 **Link to work:** [gideon db_client commit](https://github.com/pity7736/gideon/commit/6fee90d4bebc96bc4221517ef68fa085c0bc16bc)
