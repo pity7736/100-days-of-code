@@ -128,6 +128,6 @@
 
 **Thoughts:**
 
-* I'll check if I need implement `asyncio.Lock` when acquire connection from `ConnectionPool`.
+* I'll check if I need to implement `asyncio.Lock` when acquire connection from `ConnectionPool`.
 
 **Link to work:** [gideon](https://github.com/pity7736/gideon)
