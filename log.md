@@ -9,6 +9,7 @@
 * [Day 6](#day6)
 * [Day 7](#day7)
 * [Day 8](#day8)
+* [Day 9](#day9)
 
 <a id="day0"></a>
 ### Day 0: November 9, 2019
@@ -129,5 +130,26 @@
 **Thoughts:**
 
 * I'll check if I need to implement `asyncio.Lock` when acquire connection from `ConnectionPool`.
+
+**Link to work:** [gideon](https://github.com/pity7736/gideon)
+
+<a id="day9"></a>
+### Day 9: November 20, 2019
+
+**Today's Progress:**
+
+* Criteria in `filter` is not longer mandatory.
+* `filter` in `QuerySet` without side effects.
+* Refactorized `get` method. Now it return a new instance of `QuerySet` and is no longer a coroutine.
+* Removed `criteria` and `fields` params from `QuerySet`.
+* Added `create` method to `Model`. It's just a shortcut to:
+```python
+    obj = Model(field1=value1, field2=value2)
+    await obj.save()
+```
+
+**Thoughts:**
+
+* I could not implement `_clone` method in `QuerySet` due to the visibility of the attributes. However, I'll find a way to do it.
 
 **Link to work:** [gideon](https://github.com/pity7736/gideon)
