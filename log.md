@@ -10,6 +10,7 @@
 * [Day 7](#day7)
 * [Day 8](#day8)
 * [Day 9](#day9)
+* [Day 10](#day10)
 
 <a id="day0"></a>
 ### Day 0: November 9, 2019
@@ -153,3 +154,18 @@
 * I could not implement `_clone` method in `QuerySet` due to the visibility of the attributes. However, I'll find a way to do it.
 
 **Link to work:** [gideon](https://github.com/pity7736/gideon)
+
+<a id="day10"></a>
+### Day 10: November 21, 2019
+
+**Today's Progress:**
+
+* Now `all` method return a new instance of `QuerySet` and is no longer a coroutine.
+
+
+**Thoughts:**
+
+* I was thinking how to convert `QuerySet` instances to sql. It's not easy. Actually, it's really hard to find a way to make it flexible enough. I think that I need a `SQLCompiler` and `Èxecutor` classes. For now, I don't know!
+
+**Link to work:** [gideon](https://github.com/pity7736/gideon)
+
