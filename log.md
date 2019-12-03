@@ -11,6 +11,7 @@
 * [Day 8](#day8)
 * [Day 9](#day9)
 * [Day 10](#day10)
+* [Day 11](#day11)
 
 <a id="day0"></a>
 ### Day 0: November 9, 2019
@@ -166,6 +167,20 @@
 **Thoughts:**
 
 * I was thinking how to convert `QuerySet` instances to sql. It's not easy. Actually, it's really hard to find a way to make it flexible enough. I think that I need a `SQLCompiler` and `Èxecutor` classes. For now, I don't know!
+
+**Link to work:** [gideon](https://github.com/pity7736/gideon)
+
+<a id="day11"></a>
+### Day 11: December 2 2019
+
+**Today's Progress:**
+
+* Update Model instances with `save` method.
+
+
+**Thoughts:**
+
+* I think I need to add more features before to make the `SQLCompiler`.
 
 **Link to work:** [gideon](https://github.com/pity7736/gideon)
 
