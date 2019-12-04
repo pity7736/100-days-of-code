@@ -12,6 +12,7 @@
 * [Day 9](#day9)
 * [Day 10](#day10)
 * [Day 11](#day11)
+* [Day 12](#day12)
 
 <a id="day0"></a>
 ### Day 0: November 9, 2019
@@ -181,6 +182,24 @@
 **Thoughts:**
 
 * I think I need to add more features before to make the `SQLCompiler`.
+
+**Link to work:** [gideon](https://github.com/pity7736/gideon)
+
+<a id="day12"></a>
+### Day 12: December 3 2019
+
+**Today's Progress:**
+
+* Refactorized some tests and fixtures.
+* Created `movement` fixture.
+* The `update_fields` parameter was added to the` save` method that allows only specific fields to be updated.
+* Created CHANGELOG file.
+* New v0.0.0a6 version uploaded to pypi.
+
+
+**Thoughts:**
+
+* I'll start type documentation soon.
 
 **Link to work:** [gideon](https://github.com/pity7736/gideon)
 
