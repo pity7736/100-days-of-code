@@ -13,6 +13,7 @@
 * [Day 10](#day10)
 * [Day 11](#day11)
 * [Day 12](#day12)
+* [Day 13](#day13)
 
 <a id="day0"></a>
 ### Day 0: November 9, 2019
@@ -172,7 +173,7 @@
 **Link to work:** [gideon](https://github.com/pity7736/gideon)
 
 <a id="day11"></a>
-### Day 11: December 2 2019
+### Day 11: December 2, 2019
 
 **Today's Progress:**
 
@@ -186,7 +187,7 @@
 **Link to work:** [gideon](https://github.com/pity7736/gideon)
 
 <a id="day12"></a>
-### Day 12: December 3 2019
+### Day 12: December 3, 2019
 
 **Today's Progress:**
 
@@ -200,6 +201,25 @@
 **Thoughts:**
 
 * I'll start type documentation soon.
+
+**Link to work:** [gideon](https://github.com/pity7736/gideon)
+
+<a id="day13"></a>
+### Day 13: December 4, 2019
+
+**Today's Progress:**
+
+* Set the `Field` name automatically when this is `None`.
+* Created `CharChoicesField` and removed chocies parameter from `Field`. (Not in master)
+
+**Thoughts:**
+
+* I should have done auto field name before.
+* I don't decide if merge to master the `CharChoicesField`.  What will be better? The difference would be that choices is removed from all fields types.
+```python
+    field1 = CharField(choices=ChoicesEnum)
+    field2 = CharChoicesField(choices=ChoicesEnum)
+```
 
 **Link to work:** [gideon](https://github.com/pity7736/gideon)
 
