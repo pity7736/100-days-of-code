@@ -14,6 +14,7 @@
 * [Day 11](#day11)
 * [Day 12](#day12)
 * [Day 13](#day13)
+* [Day 14](#day14)
 
 <a id="day0"></a>
 ### Day 0: November 9, 2019
@@ -219,6 +220,31 @@
 ```python
     field1 = CharField(choices=ChoicesEnum)
     field2 = CharChoicesField(choices=ChoicesEnum)
+```
+
+**Link to work:** [gideon](https://github.com/pity7736/gideon)
+
+<a id="day14"></a>
+### Day 14: December 5, 2019
+
+**Today's Progress:**
+
+* `__repr__`, `__str__` and `__eq__` methods were implemented in `Model`.
+* `MetaModel` metaclass do nothing with `Model` class.
+
+**Thoughts:**
+
+* I think I'm going to undo `CharChoicesField` changes.
+* I don't decide what comparison methods I'm going to implement in `QuerySet`. I have two choices:
+```python
+    Model.filter(field1='hi' or field2='world', field3='test')
+    # or like Django
+    Model.filter(Q(field1='h1') | Q(field2='world'), field3='test')
+```
+Both should generate this sql statement:
+
+```sql
+SELECT * FROM model WHERE (field1 = 'hi' or field2 = 'world') AND field3 = 'test'
 ```
 
 **Link to work:** [gideon](https://github.com/pity7736/gideon)
