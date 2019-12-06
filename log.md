@@ -237,7 +237,7 @@
 * I think I'm going to undo `CharChoicesField` changes.
 * I don't decide what comparison methods I'm going to implement in `QuerySet`. I have two choices:
 ```python
-    Model.filter(field1='hi' or field2='world', field3='test')
+    Model.filter((field1='hi' or field2='world') and field3='test')
     # or like Django
     Model.filter(Q(field1='h1') | Q(field2='world'), field3='test')
 ```
