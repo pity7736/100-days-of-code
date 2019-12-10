@@ -15,6 +15,7 @@
 * [Day 12](#day12)
 * [Day 13](#day13)
 * [Day 14](#day14)
+* [Day 15](#day15)
 
 <a id="day0"></a>
 ### Day 0: November 9, 2019
@@ -237,7 +238,7 @@
 * I think I'm going to undo `CharChoicesField` changes.
 * I don't decide what comparison methods I'm going to implement in `QuerySet`. I have two choices:
 ```python
-    Model.filter((Model.field1='hi' or Model.field2='world') and Model.field3='test')
+    Model.filter((Model.field1 == 'hi' or Model.field2 == 'world') and Model.field3 == 'test')
     # or like Django
     Model.filter(Q(field1='h1') | Q(field2='world'), field3='test')
 ```
@@ -248,4 +249,16 @@ SELECT * FROM model WHERE (field1 = 'hi' or field2 = 'world') AND field3 = 'test
 ```
 
 **Link to work:** [gideon](https://github.com/pity7736/gideon)
+
+<a id="day15"></a>
+### Day 15: December 9, 2019
+
+**Today's Progress:**
+
+* I was testing in python interpreter how should be the comparison method `Model.field == 'value'`.
+
+**Thoughts:**
+
+* It will hard call `Model.field` because the model has a property with the same name of the field.
+
 
