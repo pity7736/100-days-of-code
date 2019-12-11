@@ -16,6 +16,7 @@
 * [Day 13](#day13)
 * [Day 14](#day14)
 * [Day 15](#day15)
+* [Day 16](#day16)
 
 <a id="day0"></a>
 ### Day 0: November 9, 2019
@@ -245,7 +246,7 @@
 Both should generate something close to this sql statement:
 
 ```sql
-SELECT * FROM model WHERE (field1 = 'hi' or field2 = 'world') AND field3 = 'test'
+SELECT * FROM model WHERE (field1 = 'hi' OR field2 = 'world') AND field3 = 'test'
 ```
 
 **Link to work:** [gideon](https://github.com/pity7736/gideon)
@@ -261,4 +262,16 @@ SELECT * FROM model WHERE (field1 = 'hi' or field2 = 'world') AND field3 = 'test
 
 * It will hard call `Model.field` because the model has a property with the same name of the field.
 
+<a id="day16"></a>
+### Day 16: December 10, 2019
+
+**Today's Progress:**
+
+* Init new comparison method
+
+**Thoughts:**
+
+* I made a mistake, the comparison `Model.field1 == 'hi' and Model.field2 == 'world'` is not possible. The comparison should be like this `(Model.field1 == 'hi') & (Model.field2 == 'world')`. I need to do the poll again.
+
+**Link to work:** [gideon](https://github.com/pity7736/gideon)
 
