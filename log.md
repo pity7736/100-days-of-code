@@ -273,5 +273,5 @@ SELECT * FROM model WHERE (field1 = 'hi' OR field2 = 'world') AND field3 = 'test
 
 * I made a mistake, the comparison `Model.field1 == 'hi' and Model.field2 == 'world'` is not possible. The comparison should be like this `(Model.field1 == 'hi') & (Model.field2 == 'world')`. I need to do the poll again.
 
-**Link to work:** [gideon](https://github.com/pity7736/gideon)
+**Link to work:** [gideon](https://github.com/pity7736/gideon/tree/filter_criteria)
 
