@@ -4,7 +4,7 @@
 
 
 <a id="day0"></a>
-### Day 0: January 20, 2020
+### Day 0: January 29, 2020
 
 **Today's Progress:** I started a small lib for holidays and working days calculations.
 
