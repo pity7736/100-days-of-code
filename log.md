@@ -23,7 +23,7 @@
 
 **Link to work:** [refactor](https://github.com/pity7736/workingless/commit/310f3a7447f45d34d6cfe862da014a8b8fa787b3)
 
-<a id="day1"></a>
+<a id="day2"></a>
 ### Day 1: January 31, 2020
 
 **Today's Progress:** Added `is_holiday` function.
