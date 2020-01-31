@@ -1,6 +1,7 @@
 # 100 Days Of Code - Log
 
 * [Day 0](#day0)
+* [Day 1](#day1)
 
 
 <a id="day0"></a>
@@ -11,3 +12,12 @@
 **Thoughts:** I learned about [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) and I started to applying it in this project.
 
 **Link to work:** [workingless project](https://github.com/pity7736/workingless)
+
+<a id="day1"></a>
+### Day 1: January 30, 2020
+
+**Today's Progress:** I refactorized holidays calculations.
+
+**Thoughts:** I like tests more and more!
+
+**Link to work:** [refactor](https://github.com/pity7736/workingless/commit/310f3a7447f45d34d6cfe862da014a8b8fa787b3)
