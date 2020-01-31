@@ -2,6 +2,7 @@
 
 * [Day 0](#day0)
 * [Day 1](#day1)
+* [Day 2](#day2)
 
 
 <a id="day0"></a>
@@ -21,3 +22,12 @@
 **Thoughts:** I like tests more and more!
 
 **Link to work:** [refactor](https://github.com/pity7736/workingless/commit/310f3a7447f45d34d6cfe862da014a8b8fa787b3)
+
+<a id="day1"></a>
+### Day 1: January 31, 2020
+
+**Today's Progress:** Added `is_holiday` function.
+
+**Thoughts:** I hope add another country, maybe Mexico, very soon.
+
+**Link to work:** [commit](https://github.com/pity7736/workingless/commit/e44b0cd7b67001fe1d469e9967b857ca6fa09554)
