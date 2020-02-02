@@ -3,6 +3,7 @@
 * [Day 0](#day0)
 * [Day 1](#day1)
 * [Day 2](#day2)
+* [Day 3](#day3)
 
 
 <a id="day0"></a>
@@ -31,3 +32,13 @@
 **Thoughts:** I hope add another country, maybe Mexico, very soon.
 
 **Link to work:** [commit](https://github.com/pity7736/workingless/commit/e44b0cd7b67001fe1d469e9967b857ca6fa09554)
+
+
+<a id="day3"></a>
+### Day 3: February 1, 2020
+
+**Today's Progress:** Initial documentation
+
+**Thoughts:** Learning more about sphinx and documentation in general.
+
+**Link to work:** [workingless project](https://github.com/pity7736/workingless)
