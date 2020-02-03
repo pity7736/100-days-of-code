@@ -4,6 +4,7 @@
 * [Day 1](#day1)
 * [Day 2](#day2)
 * [Day 3](#day3)
+* [Day 4](#day4)
 
 
 <a id="day0"></a>
@@ -40,5 +41,14 @@
 **Today's Progress:** Initial documentation
 
 **Thoughts:** Learning more about sphinx and documentation in general.
+
+**Link to work:** [workingless project](https://github.com/pity7736/workingless)
+
+<a id="day4"></a>
+### Day 4: February 2, 2020
+
+**Today's Progress:** I started multi country feature.
+
+**Thoughts:** I need to find a way to do multi country very flexible.
 
 **Link to work:** [workingless project](https://github.com/pity7736/workingless)
