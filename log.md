@@ -5,6 +5,7 @@
 * [Day 2](#day2)
 * [Day 3](#day3)
 * [Day 4](#day4)
+* [Day 5](#day5)
 
 
 <a id="day0"></a>
@@ -52,3 +53,13 @@
 **Thoughts:** I need to find a way to do multi country very flexible.
 
 **Link to work:** [workingless project](https://github.com/pity7736/workingless)
+
+<a id="day5"></a>
+### Day 5: February 3, 2020
+
+**Today's Progress:** I refactorized `HolidayCalculator` class and its `calculate` method. I applied state design pattern.
+
+**Thoughts:** I need to practice more and more until achieve a good architecture.
+
+**Link to work:** [workingless project](https://github.com/pity7736/workingless)
+
