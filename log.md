@@ -6,6 +6,9 @@
 * [Day 3](#day3)
 * [Day 4](#day4)
 * [Day 5](#day5)
+* [Day 6](#day6)
+* [Day 7](#day7)
+* [Day 8](#day8)
 
 
 <a id="day0"></a>
@@ -57,9 +60,36 @@
 <a id="day5"></a>
 ### Day 5: February 3, 2020
 
-**Today's Progress:** I refactorized `HolidayCalculator` class and its `calculate` method. I applied state design pattern.
+**Today's Progress:** I refactorized `HolidayCalculator` class and its `calculate` method. I applied strategy design pattern.
 
 **Thoughts:** I need to practice more and more until achieve a good architecture.
+
+**Link to work:** [workingless project](https://github.com/pity7736/workingless)
+
+<a id="day6"></a>
+### Day 6: February 4, 2020
+
+**Today's Progress:** I haven't much time and I not wrote code but I was thinking about next steps in architecture.
+
+**Thoughts:** The architecture is changing.
+
+**Link to work:** [workingless project](https://github.com/pity7736/workingless)
+
+<a id="day7"></a>
+### Day 7: February 5, 2020
+
+**Today's Progress:** Today I was thinking how make easy to add more countries.
+
+**Thoughts:** It's hard for me to make a decision about the architecture.
+
+**Link to work:** [workingless project](https://github.com/pity7736/workingless)
+
+<a id="day8"></a>
+### Day 8: February 7, 2020
+
+**Today's Progress:** I added Mexico. Removed api module and moved function to `CountryBase` class as methods.
+
+**Thoughts:** I like how the project looks but I need some feedback, so I will release 0.1.0 version this weekend and share the project with some friends.
 
 **Link to work:** [workingless project](https://github.com/pity7736/workingless)
 
