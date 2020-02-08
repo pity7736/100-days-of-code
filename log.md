@@ -91,5 +91,5 @@
 
 **Thoughts:** I like how the project looks but I need some feedback, so I will release 0.1.0 version this weekend and share the project with some friends.
 
-**Link to work:** [workingless project](https://github.com/pity7736/workingless)
+**Link to work:** [commit](https://github.com/pity7736/workingless/commit/0639f3efa9ea1e9f7c16aceed1ebd22437f91c04)
 
