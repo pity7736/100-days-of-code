@@ -9,6 +9,7 @@
 * [Day 6](#day6)
 * [Day 7](#day7)
 * [Day 8](#day8)
+* [Day 9](#day9)
 
 
 <a id="day0"></a>
@@ -92,4 +93,13 @@
 **Thoughts:** I like how the project looks but I need some feedback, so I will release 0.1.0 version this weekend and share the project with some friends.
 
 **Link to work:** [commit](https://github.com/pity7736/workingless/commit/0639f3efa9ea1e9f7c16aceed1ebd22437f91c04)
+
+<a id="day9"></a>
+### Day 9: February 8, 2020
+
+**Today's Progress:** Added some documentation and readme updated.
+
+**Thoughts:** Writing documentation makes me change some classes name.
+
+**Link to work:** [commit](https://github.com/pity7736/workingless/commit/47024c9544014f26b692023831e2bc2e9ef97a35)
 
