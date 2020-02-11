@@ -10,6 +10,7 @@
 * [Day 7](#day7)
 * [Day 8](#day8)
 * [Day 9](#day9)
+* [Day 10](#day10)
 
 
 <a id="day0"></a>
@@ -102,4 +103,13 @@
 **Thoughts:** Writing documentation makes me change some classes name.
 
 **Link to work:** [commit](https://github.com/pity7736/workingless/commit/47024c9544014f26b692023831e2bc2e9ef97a35)
+
+<a id="day10"></a>
+### Day 10: February 10, 2020
+
+**Today's Progress:** I added `get_next_working_day` and `is_working_day` methods.
+
+**Thoughts:** I renamed countries by using [ISO 3166](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)
+
+**Link to work:** [workingless project](https://github.com/pity7736/workingless)
 
