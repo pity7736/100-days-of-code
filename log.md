@@ -11,6 +11,7 @@
 * [Day 8](#day8)
 * [Day 9](#day9)
 * [Day 10](#day10)
+* [Day 11](#day11)
 
 
 <a id="day0"></a>
@@ -110,6 +111,15 @@
 **Today's Progress:** I added `get_next_working_day` and `is_working_day` methods.
 
 **Thoughts:** I renamed countries by using [ISO 3166](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)
+
+**Link to work:** [workingless project](https://github.com/pity7736/workingless)
+
+<a id="day11"></a>
+### Day 11: February 11, 2020
+
+**Today's Progress:** I released version 0.1.1!
+
+**Thoughts:** I made a mistake. I uploaded version 0.1.0 to pypi but I didn't commit the changes. For thar teason the version released is 0.1.1.
 
 **Link to work:** [workingless project](https://github.com/pity7736/workingless)
 
