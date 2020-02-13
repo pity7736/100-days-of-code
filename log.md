@@ -125,7 +125,7 @@
 **Link to work:** [workingless project](https://github.com/pity7736/workingless)
 
 
-<a id="day 12"></a>
+<a id="day12"></a>
 ### Day 12: February 12, 2020
 
 **Today's Progress:** Added `NDayHolidayCalculator`
