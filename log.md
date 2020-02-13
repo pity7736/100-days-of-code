@@ -12,6 +12,7 @@
 * [Day 9](#day9)
 * [Day 10](#day10)
 * [Day 11](#day11)
+* [Day 12](#day12)
 
 
 <a id="day0"></a>
@@ -120,6 +121,16 @@
 **Today's Progress:** I released version 0.1.1!
 
 **Thoughts:** I made a mistake. I uploaded version 0.1.0 to pypi but I didn't commit the changes. For thar teason the version released is 0.1.1.
+
+**Link to work:** [workingless project](https://github.com/pity7736/workingless)
+
+
+<a id="day 12"></a>
+### Day 12: February 12, 2020
+
+**Today's Progress:** Added `NDayHolidayCalculator`
+
+**Thoughts:** It was not simple add new holiday calculator, so I think that I'm going to refactor it.
 
 **Link to work:** [workingless project](https://github.com/pity7736/workingless)
 
