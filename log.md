@@ -13,6 +13,7 @@
 * [Day 10](#day10)
 * [Day 11](#day11)
 * [Day 12](#day12)
+* [Day 13](#day13)
 
 
 <a id="day0"></a>
@@ -131,6 +132,16 @@
 **Today's Progress:** Added `NDayHolidayCalculator`
 
 **Thoughts:** It was not simple add new holiday calculator, so I think that I'm going to refactor it.
+
+**Link to work:** [workingless project](https://github.com/pity7736/workingless)
+
+
+<a id="day13"></a>
+### Day 13: February 13, 2020
+
+**Today's Progress:** I changed relationships and removed `Holiday` and `HolidaCalulator` classes.
+
+**Thoughts:** I think that now is much simpler to add another holiday calculator.
 
 **Link to work:** [workingless project](https://github.com/pity7736/workingless)
 
