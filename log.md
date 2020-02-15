@@ -14,6 +14,7 @@
 * [Day 11](#day11)
 * [Day 12](#day12)
 * [Day 13](#day13)
+* [Day 14](#day14)
 
 
 <a id="day0"></a>
@@ -142,6 +143,15 @@
 **Today's Progress:** I changed relationships and removed `Holiday` and `HolidaCalulator` classes.
 
 **Thoughts:** I think that now is much simpler to add another holiday calculator.
+
+**Link to work:** [workingless project](https://github.com/pity7736/workingless)
+
+<a id="day14"></a>
+### Day 14: February 14, 2020
+
+**Today's Progress:** I added some tests for calulators
+
+**Thoughts:** When I did the tests I realized that the calculators isn't specific for holidays, so I renamed them.
 
 **Link to work:** [workingless project](https://github.com/pity7736/workingless)
 
