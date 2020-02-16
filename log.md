@@ -15,6 +15,7 @@
 * [Day 12](#day12)
 * [Day 13](#day13)
 * [Day 14](#day14)
+* [Day 15](#day15)
 
 
 <a id="day0"></a>
@@ -152,6 +153,16 @@
 **Today's Progress:** I added some tests for calulators
 
 **Thoughts:** When I did the tests I realized that the calculators isn't specific for holidays, so I renamed them.
+
+**Link to work:** [workingless project](https://github.com/pity7736/workingless)
+
+
+<a id="day15"></a>
+### Day 15: February 15, 2020
+
+**Today's Progress:** I updated documentation and integrated CI with circle ci.
+
+**Thoughts:** It's easy the first step to do CI with circle. I think that I'm going to upload each new version with circle.
 
 **Link to work:** [workingless project](https://github.com/pity7736/workingless)
 
