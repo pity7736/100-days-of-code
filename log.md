@@ -16,6 +16,7 @@
 * [Day 13](#day13)
 * [Day 14](#day14)
 * [Day 15](#day15)
+* [Day 16](#day16)
 
 
 <a id="day0"></a>
@@ -156,13 +157,21 @@
 
 **Link to work:** [workingless project](https://github.com/pity7736/workingless)
 
-
 <a id="day15"></a>
 ### Day 15: February 15, 2020
 
 **Today's Progress:** I updated documentation and integrated CI with circle ci.
 
 **Thoughts:** It's easy the first step to do CI with circle. I think that I'm going to upload each new version with circle.
+
+**Link to work:** [workingless project](https://github.com/pity7736/workingless)
+
+<a id="day16"></a>
+### Day 16: February 16, 2020
+
+**Today's Progress:** I tested the lib with different python versions by using circle. Also, a was preparing a talk about asyncIO for the office team.
+
+**Thoughts:** It's really nice to use CI like circle.
 
 **Link to work:** [workingless project](https://github.com/pity7736/workingless)
 
