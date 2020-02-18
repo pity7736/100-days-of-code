@@ -17,6 +17,7 @@
 * [Day 14](#day14)
 * [Day 15](#day15)
 * [Day 16](#day16)
+* [Day 17](#day17)
 
 
 <a id="day0"></a>
@@ -172,6 +173,15 @@
 **Today's Progress:** I tested the lib with different python versions by using circle. Also, a was preparing a talk about asyncIO for the office team.
 
 **Thoughts:** It's really nice to use CI like circle.
+
+**Link to work:** [workingless project](https://github.com/pity7736/workingless)
+
+<a id="day17"></a>
+### Day 17: February 17, 2020
+
+**Today's Progress:** I added `EveryNYearsCalculator` and get holidays for Mexico. Version 0.2.0 released!
+
+**Thoughts:** I need to be more carefully when I release a new version, I forgot update the readme!
 
 **Link to work:** [workingless project](https://github.com/pity7736/workingless)
 
