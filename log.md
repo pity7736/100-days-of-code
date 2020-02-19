@@ -189,7 +189,7 @@
 <a id="day18"></a>
 ### Day 18: February 18, 2020
 
-**Today's Progress:** I'm no code today but I was learning more about concurrency.
+**Today's Progress:** I didn't code today but I was learning more about concurrency.
 
 **Thoughts:** I saw some advantages and disadvantages about threading and multiproccesing. It's so interesting.
 
