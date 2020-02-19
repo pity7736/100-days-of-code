@@ -18,6 +18,7 @@
 * [Day 15](#day15)
 * [Day 16](#day16)
 * [Day 17](#day17)
+* [Day 18](#day18)
 
 
 <a id="day0"></a>
@@ -184,4 +185,15 @@
 **Thoughts:** I need to be more carefully when I release a new version, I forgot update the readme!
 
 **Link to work:** [workingless project](https://github.com/pity7736/workingless)
+
+<a id="day18"></a>
+### Day 18: February 18, 2020
+
+**Today's Progress:** I'm no code today but I was learning more about concurrency.
+
+**Thoughts:** I saw some advantages and disadvantages about threading and multiproccesing. It's so interesting.
+
+**Link to work:**
+  - [Raymond Hettinger keynote](https://www.youtube.com/watch?v=9zinZmE3Ogk)
+  - [AsyncIO real python](https://realpython.com/async-io-python/)
 
