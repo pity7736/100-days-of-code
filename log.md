@@ -19,6 +19,7 @@
 * [Day 16](#day16)
 * [Day 17](#day17)
 * [Day 18](#day18)
+* [Day 19](#day19)
 
 
 <a id="day0"></a>
@@ -196,4 +197,11 @@
 **Link to work:**
   - [Raymond Hettinger keynote](https://www.youtube.com/watch?v=9zinZmE3Ogk)
   - [AsyncIO real python](https://realpython.com/async-io-python/)
+
+<a id="day19"></a>
+### Day 19: February 19, 2020
+
+**Today's Progress:** I was readin extreme programming book today.
+
+**Thoughts:** It's a very interesting book. I hope to implement in my work.
 
