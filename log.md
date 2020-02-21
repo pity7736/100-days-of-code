@@ -20,6 +20,7 @@
 * [Day 17](#day17)
 * [Day 18](#day18)
 * [Day 19](#day19)
+* [Day 20](#day20)
 
 
 <a id="day0"></a>
@@ -205,3 +206,11 @@
 
 **Thoughts:** It's a very interesting book. I hope to implement in my work.
 
+<a id="day20"></a>
+### Day 20: February 20, 2020
+
+**Today's Progress:** I was reading XP book. Also, I was reviewing and remembering the gideon code. I'll be working on it tomorrow.
+
+**Thoughts:** I liked the XP values, principles and practices. I had already done some of them but I think that I need to do all of them and do it more frequently.
+
+**Link to work:** [gideon project](https://github.com/pity7736/gideon)
