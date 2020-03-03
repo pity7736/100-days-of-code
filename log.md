@@ -21,6 +21,13 @@
 * [Day 18](#day18)
 * [Day 19](#day19)
 * [Day 20](#day20)
+* [Day 21](#day21)
+* [Day 22](#day22)
+* [Day 23](#day23)
+* [Day 24](#day24)
+* [Day 25](#day25)
+* [Day 26](#day26)
+* [Day 27](#day27)
 
 
 <a id="day0"></a>
@@ -214,3 +221,63 @@
 **Thoughts:** I liked the XP values, principles and practices. I had already done some of them but I think that I need to do all of them and do it more frequently.
 
 **Link to work:** [gideon project](https://github.com/pity7736/gideon)
+
+<a id="day21"></a>
+### Day 21: February 23, 2020
+
+**Today's Progress:** I was preparing a asyncio talk.
+
+**Thoughts:** It's interesting what I'm learning meanwhile I prepare the talk.
+
+<a id="day22"></a>
+### Day 22: February 24, 2020
+
+**Today's Progress:** I was preparing a asyncio talk.
+
+**Thoughts:** I think that I want to give the talk in python Bogotá meeting.
+
+**Link to work:** [talk exercises](https://github.com/pity7736/asyncio-talk)
+
+<a id="day23"></a>
+### Day 23: February 26, 2020
+
+**Today's Progress:** I was reading XP book and I still preparing a asyncio talk.
+
+**Thoughts:** I thinking about what XP practices to implement in my teamwork.
+
+**Link to work:** [talk exercises](https://github.com/pity7736/asyncio-talk)
+
+<a id="day24"></a>
+### Day 24: February 27, 2020
+
+**Today's Progress:** I still preparing a asyncio talk.
+
+**Thoughts:** I'm so slow. 
+
+**Link to work:** [talk exercises](https://github.com/pity7736/asyncio-talk)
+
+<a id="day25"></a>
+### Day 25: February 28, 2020
+
+**Today's Progress:** Last day preparing talk
+
+**Thoughts:** ...
+
+**Link to work:** [talk exercises](https://github.com/pity7736/asyncio-talk)
+
+
+<a id="day26"></a>
+### Day 26: March 1, 2020
+
+**Today's Progress:** I was reading a XP book.
+
+**Thoughts:** 
+
+
+<a id="day27"></a>
+### Day 27: March 2, 2020
+
+**Today's Progress:** I was reading a XP book.
+
+**Thoughts:** I was thinking about what project is the next for this callenge.
+
