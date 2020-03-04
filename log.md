@@ -28,6 +28,7 @@
 * [Day 25](#day25)
 * [Day 26](#day26)
 * [Day 27](#day27)
+* [Day 28](#day28)
 
 
 <a id="day0"></a>
@@ -280,4 +281,12 @@
 **Today's Progress:** I was reading a XP book.
 
 **Thoughts:** I was thinking about what project is the next for this callenge.
+
+
+<a id="day28"></a>
+### Day 28: March 3, 2020
+
+**Today's Progress:** Today I was watching videos about TDD. In fact, I bought a video of cleancoders (Uncle Bob Martin) about it.
+
+**Thoughts:** I did decide to write a personal accounting application with puggable DB engine.
 
