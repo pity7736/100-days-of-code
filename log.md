@@ -288,5 +288,5 @@
 
 **Today's Progress:** Today I was watching videos about TDD. In fact, I bought a video of cleancoders (Uncle Bob Martin) about it.
 
-**Thoughts:** I did decide to write a personal accounting application with puggable DB engine.
+**Thoughts:** I did decide to write a personal accounting application with pluggable DB engine.
 
