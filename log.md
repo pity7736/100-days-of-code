@@ -293,6 +293,6 @@
 <a id="day29"></a>
 ### Day 29: March 4, 2020
 
-**Today's Progress:** Today I was watching the second episode for chicago vs london from cleancoders.
+**Today's Progress:** Today I was watching the second episode of chicago vs london from cleancoders.
 
 **Thoughts:** It's interesting the way that acceptance tests prove the architecture and unit test drive the architecture.
