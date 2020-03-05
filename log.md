@@ -29,6 +29,7 @@
 * [Day 26](#day26)
 * [Day 27](#day27)
 * [Day 28](#day28)
+* [Day 29](#day29)
 
 
 <a id="day0"></a>
@@ -282,7 +283,6 @@
 
 **Thoughts:** I was thinking about what project is the next for this callenge.
 
-
 <a id="day28"></a>
 ### Day 28: March 3, 2020
 
@@ -290,3 +290,9 @@
 
 **Thoughts:** I did decide to write a personal accounting application with pluggable DB engine.
 
+<a id="day29"></a>
+### Day 29: March 4, 2020
+
+**Today's Progress:** Today I was watching the second episode for chicago vs london from cleancoders.
+
+**Thoughts:** It's interesting the way that acceptance tests prove the architecture and unit test drive the architecture.
