@@ -30,6 +30,7 @@
 * [Day 27](#day27)
 * [Day 28](#day28)
 * [Day 29](#day29)
+* [Day 30](#day30)
 
 
 <a id="day0"></a>
@@ -296,3 +297,10 @@
 **Today's Progress:** Today I was watching the second episode of chicago vs london from cleancoders.
 
 **Thoughts:** It's interesting the way that acceptance tests prove the architecture and unit test drive the architecture.
+
+<a id="day30"></a>
+### Day 30: March 5, 2020
+
+**Today's Progress:** Today I was watching the third episode of chicago vs london from cleancoders.
+
+**Thoughts:** I like the london way but I think the tests mock so much.
